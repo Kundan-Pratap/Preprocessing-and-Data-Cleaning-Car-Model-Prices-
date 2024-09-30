@@ -1,4 +1,4 @@
-# Quikr Car Data Cleaning and Analysis
+# Preprocessing and  Data Cleaning - Car Model Prices
 
 This repository contains a Jupyter Notebook that demonstrates the process of cleaning and analyzing used car data obtained from Quikr. 
 
